@@ -12,5 +12,5 @@ You may install:<br>
 ```conda install seaborn```<br>
 The project can be run on jupyter notebook.<br>
 
-![image1](https://github.com/Surajv311/Covid19_DataAnalysis/blob/master/img1.jpg) <br>
-![image2](https://github.com/Surajv311/Covid19_DataAnalysis/blob/master/img2.jpg)
+![image1](https://github.com/Surajv311/Covid19_DataAnalysis/blob/master/images/img1.jpg) <br>
+![image2](https://github.com/Surajv311/Covid19_DataAnalysis/blob/master/images/img2.jpg)
