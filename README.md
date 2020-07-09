@@ -6,7 +6,7 @@
 Before cloning and running the project ensure that you have the necessary libraries installed in your environment.<br>
 You may install:<br>
 
-```conda install pandas ```
+```conda install pandas ```<br>
 ```conda install numpy ```<br>
 ```conda install matplotlib```<br>
 ```conda install seaborn```<br>
